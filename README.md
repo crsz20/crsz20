@@ -7,7 +7,7 @@
 * 📫 **How to reach me:** Message me on [LinkedIn](https://www.linkedin.com/in/crsz/)
 * ⚡ **Fun fact:** I couldn't decide between Electrical Engineering and Computer Science... so I picked both!
 * 🦾 **Current Projets**
-   * Behavior Planning & Controls for a [self-driving vehicle](https://voltron-utd.github.io/)
+   * Behavior Planning & Controls for a [self-driving vehicle](https://nova-utd.github.io/)
    * Building an Electrical Control Throttle for [Dallas Formula Racing](https://dallasformularacing.com/)
 
 ### Hardware
