@@ -1,7 +1,5 @@
 ## Welcome! 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=crsz20.crsz20)
-
 
 * 🌱 **I’m currently learning:** Electronics, AI/ML, and software development
 * 📫 **How to reach me:** Message me on [LinkedIn](https://www.linkedin.com/in/crsz/)
