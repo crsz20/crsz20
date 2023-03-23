@@ -4,9 +4,18 @@
 * 🌱 **I’m currently learning:** Electronics, AI/ML, and software development
 * 📫 **How to reach me:** Message me on [LinkedIn](https://www.linkedin.com/in/crsz/)
 * ⚡ **Fun fact:** I couldn't decide between Electrical Engineering and Computer Science... so I picked both!
-* 🦾 **Current Projets**
-   * Behavior Planning & Controls for a [self-driving vehicle](https://nova-utd.github.io/)
-   * Building an Electrical Control Throttle for [Dallas Formula Racing](https://dallasformularacing.com/)
+
+### Most Notable Projects
+📝 **Previous Notable Projects**
+* Behavior Planning & Controls for a [self-driving vehicle](https://nova-utd.github.io/)
+* Research for an Electrical Control Throttle (ETC)
+
+🦾 **Current Notable Projects**
+* As the Embedded Systems Lead for [Dallas Formula Racing](https://dallasformularacing.com/)
+  * Data Acquisition System
+  * Dashboard Display Infotainment System + custom Linux image
+* Personal projects
+  * Todo: Embedded Rust
 
 ### Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white)
