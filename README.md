@@ -6,15 +6,18 @@
 * ⚡ **Fun fact:** I could not decide between Electrical Engineering and Computer Science... so I picked both!
 
 ### Most Notable Projects
-📝 **Previous Projects**
-* Behavior Planning & Controls for a [self-driving vehicle](https://nova-utd.github.io/)
-* Research for an Electrical Control Throttle (ETC)
 
 🦾 **Current Projects**
 * As the Embedded Systems Lead for [Dallas Formula Racing](https://dallasformularacing.com/)
   * Data Acquisition System
   * Dashboard Display
 * Developing for a Swarm Drone Light Show
+
+📝 **Previous Projects**
+* Behavior Planning & Controls for a [self-driving vehicle](https://nova-utd.github.io/)
+* Research for an Electrical Control Throttle (ETC)
+
+
 
 ### Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white)
