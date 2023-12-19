@@ -1,29 +1,12 @@
 ## Welcome! 👋
-
-
 * 🌱 **I’m currently learning:** Electronics, firmware, and software development
 * 📫 **How to reach me:** Message me on [LinkedIn](https://www.linkedin.com/in/crsz/)
 * ⚡ **Fun fact:** I could not decide between Electrical Engineering and Computer Science... so I picked both!
-
-### Most Notable Projects
-
-🦾 **Current Projects**
-* As the Embedded Systems Lead for [Dallas Formula Racing](https://dallasformularacing.com/)
-  * Data Acquisition System
-  * Dashboard Display
-* Developing for a Swarm Drone Light Show
-
-📝 **Previous Projects**
-* Behavior Planning & Controls for a [self-driving vehicle](https://nova-utd.github.io/)
-* Research for an Electrical Control Throttle (ETC)
-
-
 
 ### Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white)
 ![STM](https://img.shields.io/badge/STM32-03234B.svg?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846.svg?style=flat&logo=raspberrypi&logoColor=white)
-
 
 ### Frameworks
 - FreeRTOS
