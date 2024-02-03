@@ -1,5 +1,5 @@
 ## Welcome! 👋
-* 🌱 **I’m currently learning:** Electronics, firmware, and software development
+* 🌱 **I’m currently learning:** Bluetooth, FreeRTOS, Qt, Yocto.
 * 📫 **How to reach me:** Message me on [LinkedIn](https://www.linkedin.com/in/crsz/)
 * ⚡ **Fun fact:** I could not decide between Electrical Engineering and Computer Science... so I picked both!
 
@@ -28,3 +28,4 @@
 ![matlab](https://img.shields.io/badge/MATLAB-orange.svg?style=flat&logo=matlab&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey.svg?style=flat&logo=javascript&logoColor=F7DF1E)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crsz20&show_icons=true&locale=en" /></p>
