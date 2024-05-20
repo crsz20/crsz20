@@ -12,7 +12,6 @@
 - FreeRTOS
 - Google Test
 - ROS
-- Qt
 
 ### Tools
 - Logic Analyzer
