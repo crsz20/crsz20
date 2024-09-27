@@ -1,12 +1,12 @@
 ## Welcome! 👋
-* 🌱 **I’m currently learning:** Bluetooth, FreeRTOS, Qt, Yocto.
-* 📫 **How to reach me:** Message me on [LinkedIn](https://www.linkedin.com/in/crsz/)
-* ⚡ **Fun fact:** I could not decide between Electrical Engineering and Computer Science... so I picked both!
+* 🌱 **I’m currently learning:** Bluetooth Low Energy (BLE), Qt, Yocto.
+* ⚡ **Fun fact:** I could not decide between electrical hardware and software development... so I picked both!
 
 ### Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white)
+![MAX32](https://img.shields.io/badge/MAX32-00B2A9)
 ![STM](https://img.shields.io/badge/STM32-03234B.svg?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846.svg?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white)
 
 ### Frameworks
 - FreeRTOS
